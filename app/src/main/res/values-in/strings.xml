@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">Profile</string>
+        <string name="select">Pilih Bahasa</string>
+        <string name="follow">ikuti</string>
+        <string name="follower">pengikut</string>
+        <string name="message">PESAN</string>
+        <string name="call">PANGGILAN</string>
+        <string name="email">EMAIL</string>
+        <string name="information">INFORMASI</string>
+</resources>
