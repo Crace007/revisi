@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-        <string name="app_name">Profile</string>
+        <string name="app_name">Profil</string>
         <string name="select">Pilih Bahasa</string>
         <string name="follow">ikuti</string>
         <string name="follower">pengikut</string>
