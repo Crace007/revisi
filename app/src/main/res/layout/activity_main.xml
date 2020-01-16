@@ -23,21 +23,6 @@
                 android:layout_height="200dp"
                 android:background="@drawable/bgcolor" />
 
-            <TextView
-                android:layout_marginTop="10dp"
-                android:layout_marginLeft="5dp"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:drawableLeft="@drawable/back"/>
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_alignParentRight="true"
-                android:drawableLeft="@drawable/setting" />
-
             <FrameLayout
                 android:id="@+id/img_pp"
                 android:layout_width="wrap_content"
@@ -150,7 +135,7 @@
                 android:textSize="20sp"
                 android:text="ITN Malang"/>
             <TextView
-                android:id="@+id/d1"
+                android:id="@+id/d2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
@@ -158,7 +143,7 @@
                 android:textSize="20sp"
                 android:text="T. Informatika S1"/>
             <TextView
-                android:id="@+id/d2"
+                android:id="@+id/d3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="60dp"
